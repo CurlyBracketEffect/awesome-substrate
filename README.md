@@ -1,13 +1,4 @@
-<!-- ![Substrate Logo](substrate_logo_dark.png | width=250) -->
-
 # Awesome Substrate
-
-<img src="substrate_logo_dark.png">
-What is Substrate
-
-[Substrate](https://substrate.io/) is a framework for building upgradable, modular and efficient blockchains. Substrate is an
-open-source library of [Rust](https://www.rust-lang.org/) code that is maintained by
-[Parity Technologies](https://www.parity.io/).
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -15,6 +6,12 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
 
 This is the official **Awesome List** for Substrate, it is maintained by the Substrate Developer Hub
 team.
+
+What is Substrate?
+
+[Substrate](https://substrate.io/) is a framework for building upgradable, modular and efficient blockchains. Substrate is an
+open-source library of [Rust](https://www.rust-lang.org/) code that is maintained by
+[Parity Technologies](https://www.parity.io/).
 
 ## Contents
 
@@ -225,4 +222,4 @@ team.
 
 ## Related
 
--[GitHub Topics: Awesome Lists](https://github.com/topics/awesome-list)
+- [GitHub Topics: Awesome Lists](https://github.com/topics/awesome-list)
